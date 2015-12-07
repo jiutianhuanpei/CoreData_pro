@@ -1,0 +1,13 @@
+PODS:
+  - MagicalRecord (2.3.0)
+  - MJRefresh (3.0.7)
+
+DEPENDENCIES:
+  - MagicalRecord
+  - MJRefresh
+
+SPEC CHECKSUMS:
+  MagicalRecord: 89eb7d7ead39fb37f01c3d010665ee94d17f8dba
+  MJRefresh: f3e1228ec3d38c7ba5208d58032631a52f39f495
+
+COCOAPODS: 0.39.0
